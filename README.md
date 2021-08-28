@@ -4,7 +4,7 @@
 
 # Python Template
 
-_A started template for a python project_
+_A starter template for a python project_
 
 ## What's included?
 
