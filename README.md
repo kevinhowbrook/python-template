@@ -12,21 +12,21 @@ _A starter template for a python project_
 
 A pyproject.toml file to run this project on poetry.
 
-## Fabfile
+### Fabfile
 
 For ease of running certain tasks, like `fab run-tests`
 
-## Coverage
+### Coverage
 
 A .coveragerc file for running reports on test coverage
 
-## Github actions
+### Github actions
 
 - Run tests
 - Run coverage
 - Upload coverage reports
 
-### Precommit
+#### Precommit
 
 A precommit.yaml file with the following:
 
